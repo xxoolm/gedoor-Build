@@ -2,7 +2,7 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.21.022720.apk](https://github.com/xxoolm/gedoor-Build/releases/download/legado-3.21.022720/legado-3.21.022720.apk) 上次构建时间:2021-02-28 02:09:39
+> 最新构建下载:[legado-3.21.030812.apk](https://github.com/xxoolm/gedoor-Build/releases/download/legado-3.21.030812/legado-3.21.030812.apk) 上次构建时间:2021-03-08 14:11:24
   
 1. fork到你自己的仓库
 2. 去你自己的仓库,点一下右上角star就会自动开始构建,已经star的点unstar,再点一下star就会进行新的构建,你的[Actions](https://github.com/10bits/gedoor-Build/actions)列表会有显示的
